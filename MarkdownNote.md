@@ -22,7 +22,13 @@ Both bold and italic should surround the text with three asterisks '***' or unde
 
 ## Strikethrough/Highlight
 
+When want to cross texts off,just surrond the texts with double tildes '~~' on the both sides(But I have tried just one tilde and that also did well in Github).
+
+When want to highlight some texts,use double equal signs '=='(Github is not supportive)
+
 ## Supercript/Subscript
+
+Supercripted texts can use the sup tags at both sides of the texts.(But I have tried just one sup tag and that also did well in Github)
 
 ## Emojis
 
