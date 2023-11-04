@@ -30,16 +30,51 @@ When want to highlight some texts,use double equal signs '=='(Github is not supp
 
 Supercripted texts can use the sup tags at both sides of the texts.(But I have tried just one sup tag and that also did well in Github)
 
-## Emojis
-
 ## Code Blocks
+
+When you want something to be represented as code,you can surround it by backtick "`".
+
+If you want to have code across multiple lines,you can type triple backticks at the beginning and the end of the texts.Add "js" after the backticks on the first line means the language of the code is Javascript,"py" means the language of the code is Python.
 
 ## Links
 
-## Images
+Put links in squre brackets to create a link to go somewhere.
+
+[This is a link]_(https://www.youtube.com/watch?v=_PPWWRV6gbA&t=504s)_This is the link of Markdown tutorial.
 
 ## Blockquotes
 
+Put the angle bracket in front of the texts to create the blockquotes,you can put as many angle bracket as you want to nest the texts.
+>abcd
+>
+>abcd
+
 ## Horizontal Rule
 
+If you want put a line between two texts,you can put three dashes or three underscores or three asterisks,but always make sure there is empty linee between all the elements.
+
+abcd
+
+---
+
+abcd
+
 ## Lists
+
+If you want to type a list,you can use number and a period after that and a space followed by the list items.It does not matter what the number is.
+
+1. Item 1
+1. Item 2
+1. Item 3
+
+If you do not want the number list,you can exchange the number with "*","-",or "+".
+
+- Item 1
+- Item 2 
+- Item 3
+
+If you want to nest the list you can type the "ENTER",then put a "TAB" key or four spaces before the texts.
+
+- Item 1
+  - Item 2
+    - Item 3
