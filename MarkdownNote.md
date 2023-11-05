@@ -40,7 +40,9 @@ If you want to have code across multiple lines,you can type triple backticks at 
 
 Put links in squre brackets to create a link to go somewhere.
 
-[This is a link]_(https://www.youtube.com/watch?v=_PPWWRV6gbA&t=504s)_This is the link of Markdown tutorial.
+[Markdown Tutorial](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=504s)This is the link of Markdown tutorial.
+
+[教范范如何使用网页链接](https://github.com/Steven-Zhang98/PythonLearningNote/edit/main/Note/Binary.md)
 
 ## Blockquotes
 
