@@ -14,33 +14,69 @@ Six pound symbol is the smallest headling.
 
 ## Bold/Italic
 
-Bold:Surrounding the texts which you want them to be bold with double asterisks '**' or double underscores '__' on the two sides.
+**Bold**
 
-Italic:Surrounding the texts which you want them to be italic with one asterisk '*' or one underscore '_' on the two sides.
+Surrounding the texts which you want them to be bold with double asterisks '**' or double underscores '__' on the two sides.
+
+**Italic**
+
+Surrounding the texts which you want them to be italic with one asterisk '*' or one underscore '_' on the two sides.
 
 Both bold and italic should surround the text with three asterisks '***' or underscores '___' on the two sides.
 
 ## Strikethrough/Highlight
 
+**Strikethrough**
+
 When want to cross texts off,just surrond the texts with double tildes '~~' on the both sides(But I have tried just one tilde and that also did well in Github).
 
-When want to highlight some texts,use double equal signs '=='(Github is not supportive)
+For example:
+
+![](https://github.com/ShiyuFan0820/MarkdownNote.md/assets/149340606/b9302704-34d2-49d7-91dc-e22492aeb3fc)
+
+~Strikethrough~
+
+**Highlight**
+
+When want to highlight some texts,use backtick '`' at both sides of the text.
+
+For example:
+
+![](https://github.com/ShiyuFan0820/MarkdownNote.md/assets/149340606/1b67be82-95f5-42a5-881b-2b19134e1741)
+
+`Highlight`
 
 ## Supercript/Subscript
 
 Supercripted texts can use the sup tags at both sides of the texts.(But I have tried just one sup tag and that also did well in Github)
 
+For example:
+
+![](https://github.com/ShiyuFan0820/MarkdownNote.md/assets/149340606/3f5a776a-5415-4be1-a3d6-bbb1cfc445ca")
+
+X<sup>2
+
+![](https://github.com/ShiyuFan0820/MarkdownNote.md/assets/149340606/9ac49624-f6f7-4afb-9563-57d6cecb1f45)
+
+X<sub>2
+
 ## Code Blocks
 
 When you want something to be represented as code,you can surround it by backtick "`".
 
-If you want to have code across multiple lines,you can type triple backticks at the beginning and the end of the texts.Add "js" after the backticks on the first line means the language of the code is Javascript,"py" means the language of the code is Python.
+If you want to have code across multiple lines,you can type triple backticks at the beginning and the end of the texts.
+
+Add "js" after the backticks on the first line means the language of the code is Javascript,"py" means the language of the code is Python.
 
 ## Links
 
-Put links in squre brackets to create a link to go somewhere.
+Put links in square brackets to create a link to go somewhere,if you want to add some descriptions to represent the link words,you can put the descriptions in the square brackets and put the link in a "()" after it.
 
-[Markdown Tutorial](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=504s)This is the link of Markdown tutorial.
+For example:
+
+![](https://github.com/ShiyuFan0820/MarkdownNote.md/assets/149340606/1f5981f6-008f-48d3-a021-1582ec2599de)
+
+[Markdown Tutorial](https://www.youtube.com/watch?v=_PPWWRV6gbA&t=504s) 
 
 [教范范如何使用网页链接](https://github.com/Steven-Zhang98/PythonLearningNote/edit/main/Note/Binary.md)
 
