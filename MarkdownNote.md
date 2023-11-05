@@ -61,6 +61,14 @@ abcd
 
 abcd
 
+## Images
+
+When you want to add images by markdown,you have square brackets followed by parentheses,and we also need to put an exclamation point in front of the square brackets,then put the link of the images in the parentheses.
+
+For example:
+
+![This is an image](https://github.com/ShiyuFan0820/MarkdownNote.md/assets/149340606/e3893e33-1474-45f1-aad7-9e12e9584b12)
+
 ## Lists
 
 If you want to type a list,you can use number and a period after that and a space followed by the list items.It does not matter what the number is.
@@ -80,3 +88,44 @@ If you want to nest the list you can type the "ENTER",then put a "TAB" key or fo
 - Item 1
   - Item 2
     - Item 3
+
+## Tables
+
+The format of create a table is like this:
+
+![](https://github.com/ShiyuFan0820/MarkdownNote.md/assets/149340606/2fcedaa9-1f2f-4fc0-b5e5-bcbef8c87128)
+
+And the result is like this:
+
+ | Col 1 | Col 2  |
+ | ----- | ------ |
+ | This  |  is    |
+ | an    | example|
+ | table | with   |
+ | two   | columns|
+
+**Notice:**
+
+Divider:In between the first row and all other rows you must add a divider,and this divider will tell you that the row up it is header and the rows below are normal rows.For the dividers you should put at least three dashes.It is not matter that every row should have the same quantity of dash.
+
+Alignment: Adding a colon to the right of the dash keeps the texts in the same column right-aligned，if you want the texts to stay left-aligned,just add the colon on the left of the dash.If you want text centered, add colons to both ends of the dash.
+
+## Checklist
+
+To add a checklist just put texts after the open and closed square brackets which has a space in it,and make sure at the beginning of the square brackets has a dash followed by a space,for example:
+
+![](https://github.com/ShiyuFan0820/MarkdownNote.md/assets/149340606/6ddd6957-311e-4610-8df2-5e4a44564cf0)
+
+- [ ] This is a checklist
+
+If the list is checked,exchange the space in the square brackets with a "X" to show this list is completed.
+
+![](https://github.com/ShiyuFan0820/MarkdownNote.md/assets/149340606/a714742b-38a3-4811-b322-a61fb8ee7c70)
+
+- [X] This is a checked checklist
+
+
+
+
+
+
